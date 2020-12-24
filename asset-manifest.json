@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-practice/static/css/main.af756e1f.chunk.css",
+    "main.js": "/react-practice/static/js/main.16136b24.chunk.js",
+    "main.js.map": "/react-practice/static/js/main.16136b24.chunk.js.map",
+    "runtime-main.js": "/react-practice/static/js/runtime-main.8909e48c.js",
+    "runtime-main.js.map": "/react-practice/static/js/runtime-main.8909e48c.js.map",
+    "static/css/2.a7230bcb.chunk.css": "/react-practice/static/css/2.a7230bcb.chunk.css",
+    "static/js/2.884415a8.chunk.js": "/react-practice/static/js/2.884415a8.chunk.js",
+    "static/js/2.884415a8.chunk.js.map": "/react-practice/static/js/2.884415a8.chunk.js.map",
+    "index.html": "/react-practice/index.html",
+    "static/css/2.a7230bcb.chunk.css.map": "/react-practice/static/css/2.a7230bcb.chunk.css.map",
+    "static/css/main.af756e1f.chunk.css.map": "/react-practice/static/css/main.af756e1f.chunk.css.map",
+    "static/js/2.884415a8.chunk.js.LICENSE.txt": "/react-practice/static/js/2.884415a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8909e48c.js",
+    "static/css/2.a7230bcb.chunk.css",
+    "static/js/2.884415a8.chunk.js",
+    "static/css/main.af756e1f.chunk.css",
+    "static/js/main.16136b24.chunk.js"
+  ]
+}
